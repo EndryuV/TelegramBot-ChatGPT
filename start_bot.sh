@@ -16,5 +16,4 @@ cd /home/test1/telegram_bot/
 
 docker build -t telegram_bot_gpt .
 docker run --restart=always -d telegram_bot_gpt
-docker ps -a #!/bin/bash
-
+docker ps -a 
